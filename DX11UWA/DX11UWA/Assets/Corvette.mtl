@@ -1,0 +1,44 @@
+#
+#
+#
+
+newmtl vette_body Mesh_initialShadingGroup
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd vette_color.png
+
+newmtl vette_body wheel1 Mesh_initialShadingGroup
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd vette_color.png
+
+newmtl vette_body wheel2 Mesh_initialShadingGroup
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd vette_color.png
+
+newmtl vette_body wheel3 Mesh_initialShadingGroup
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd vette_color.png
+
+newmtl vette_body wheel4 Mesh_initialShadingGroup
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd vette_color.png
+
